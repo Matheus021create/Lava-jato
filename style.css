@@ -82,3 +82,12 @@ footer {
   text-align: center;
   padding: 20px;
 }
+#contato a {
+  color: #007BFF;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+#contato a:hover {
+  text-decoration: underline;
+}
